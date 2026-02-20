@@ -10,16 +10,23 @@ Beekeeper Studio — para gerenciamento visual, consultas SQL e exportação do 
 📚 O que esse projeto inclui
 
 Estrutura do banco de dados (tabelas, colunas e relacionamentos).
+
 Comandos SQL utilizados na criação do banco.
+
 Dump/arquivo .sql exportado diretamente do Beekeeper.
+
 
 🎯 Objetivo do projeto
 Aprender na prática:
 
 Modelagem de dados
+
 Criação de tabelas
+
 Chaves primárias e estrangeiras
+
 Consultas SQL
+
 Exportação de banco
 
 
