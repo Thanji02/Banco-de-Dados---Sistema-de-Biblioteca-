@@ -4,8 +4,8 @@ Este projeto foi desenvolvido com o objetivo de aprender os conceitos essenciais
 O banco foi estruturado no PostgreSQL, um dos sistemas de gerenciamento de banco de dados mais robustos e utilizados no mercado, e administrado por meio do Beekeeper Studio, uma ferramenta prática para consultas e gerenciamento visual.
 🔧 Tecnologias utilizadas
 
-PostgreSQL — para criação e gerenciamento das tabelas e dados.
-Beekeeper Studio — para gerenciamento visual, consultas SQL e exportação do schema/dump.
+PostgreSQL para criação e gerenciamento das tabelas e dados.
+Beekeeper Studio para gerenciamento visual, consultas SQL e exportação do schema/dump.
 
 📚 O que esse projeto inclui.
 
